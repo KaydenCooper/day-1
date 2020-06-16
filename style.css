@@ -1,0 +1,53 @@
+
+        body {
+            background-color: rgb(78, 72, 100);
+            display: inline flex;
+            text-align: center;
+            font-size: large;
+            justify-content: space-between;
+        }
+
+        h1 {
+            
+            display: inline flex;
+            font-family: 'Suez One', serif;
+            text-align: center;
+            text-shadow: black;
+            
+}
+
+p{
+    
+    display: inline;
+    text-align: center;
+    font-family: 'Suez One', serif;
+}
+
+img {
+    flex-direction: row;
+  width: 20%;
+  box-shadow: black 2px 0 8px;
+  margin-top: .2em;
+  margin-bottom: .2em;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+.container{
+    background-color: azure;
+    width: 60%;
+    align-self: center;
+    margin: auto;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    box-shadow: black 2px 0 8px;
+    padding: 1em;
+}
+.card{
+    background-color: azure;
+    width: 95%;
+    margin: auto; 
+    margin-bottom: .2em;
+    box-shadow: black 2px 0 8px;
+    padding: 1em;
+}
